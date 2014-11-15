@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uChe",
+				"uCheckIn"
+			],
+			[
+				"che",
+				"checkOut"
+			],
+			[
+				"childrenTo",
+				"childrenTwo"
+			],
+			[
+				"calcu",
+				"calculate"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"check",
+				"checkOutDate"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"person",
+				"personMin"
+			],
+			[
+				"pers",
+				"personCount"
+			],
+			[
+				"child",
+				"childrenOneCount"
+			],
+			[
+				"adul",
+				"adultExtraCost"
+			],
+			[
+				"per",
+				"personMin"
+			],
+			[
+				"extra",
+				"extraCost"
+			],
+			[
+				"perso",
+				"personMin"
+			],
+			[
+				"chil",
+				"childrenTwoCount"
+			],
+			[
+				"childre",
+				"childrenOneCount"
+			],
+			[
+				"adult",
+				"adultCount"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"book",
+				"bookingInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"alignm",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"preference",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefere",
+				"Preferences: Browse Packages"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"conso",
+				"Set Syntax: R Console"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 189.0,
+		"history":
+		[
+			"build",
+			"new",
+			"mkdr app;",
+			"mkdr app",
+			"phix",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sites/Rokkit200"
+	],
+	"file_history":
+	[
+		"/C/Users/Daniel/.ssh/id_rsa.pub",
+		"/C/Sites/subverse/.git/config",
+		"/C/Sites/subverse/public/views/test.html",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/C/Sites/calipso/Makefile",
+		"/C/Sites/calipso/bin/calipso",
+		"/C/Sites/ssh.pub",
+		"/C/Sites/Campio/app/models/user.js",
+		"/C/Sites/Campio/package.json",
+		"/C/Sites/Campio/config/auth.js",
+		"/C/Sites/Campio/app/routes.js",
+		"/C/Sites/Campio/public/views/index.html",
+		"/C/Sites/Campio/public/views/login.html",
+		"/C/Sites/Campio/public/js/app.js",
+		"/C/Sites/Campio/public/views/profile.html",
+		"/C/Sites/Campio/public/views/signup.html",
+		"/C/Sites/Campio/public/views/connect-local.html",
+		"/C/Sites/Campio/config/database.js",
+		"/C/Sites/Campio/config/passport.js",
+		"/C/Sites/oViver/bower.json",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sites/oViver/server.js",
+		"/C/Sites/oViver/package.json",
+		"/C/Sites/oViver/public/js/app.js",
+		"/C/Sites/oViver/public/views/index.html",
+		"/C/Sites/ToDoApp/server.js",
+		"/C/Sites/ToDoApp/app/routes.js",
+		"/C/Sites/ToDoApp/public/views/index.html",
+		"/E/Resources/Personal/Rocket200/oViver/GlobeTest/index.html",
+		"/C/Sites/oViver/public/libs/planetary.js/README.md",
+		"/C/Sites/oViver/public/js/planetaryjs.min.js",
+		"/C/Sites/oViver/public/views/planetaryjs.min.js",
+		"/C/Sites/oViver/public/views/world-110m.json",
+		"/C/Sites/oViver/node_modules/passport/lib/middleware/authenticate.js",
+		"/C/Sites/oViver/public/views/connect-local.html",
+		"/C/Sites/oViver/public/views/profile.html",
+		"/C/Sites/oViver/config/passport.js",
+		"/C/Sites/oViver/app/routes.js",
+		"/C/Sites/oViver/public/views/login.html",
+		"/E/Resources/Personal/Rocket200/oViver/GlobeTest/planetaryjs.min.js",
+		"/C/Sites/oViver/app/controllers/logoutCtrl.js",
+		"/C/Users/Daniel/Downloads/client_secret_770951229259-sd7ta5ad7gd8kovevcso5i8jv8pile2a.apps.googleusercontent.com.json",
+		"/C/Sites/oViver/config/auth.js",
+		"/C/Sites/oViver/app/models/user.js",
+		"/C/Sites/oViver/public/views/signup.html",
+		"/C/Sites/oViver/public/js/appRoutes.js",
+		"/C/Sites/oViver/public/js/controllers/GeekCtrl.js",
+		"/C/Sites/oViver/public/views/_layout.html",
+		"/C/Sites/oViver/config/database.js",
+		"/C/Sites/oViver/config/db.js",
+		"/C/Sites/oViver/app/models/moves.js",
+		"/C/Users/Daniel/DemoApp/packages/access/server/config/passport.js",
+		"/C/Sites/ToDoApp/public/js/controllers/GeekCtrl.js",
+		"/C/Sites/ToDoApp/public/js/controllers/NerdCtrl.js",
+		"/C/Sites/ToDoApp/public/js/services/GeekService.js",
+		"/C/Sites/ToDoApp/public/js/services/NerdService.js",
+		"/C/Sites/ToDoApp/public/js/app.js",
+		"/C/Sites/ToDoApp/public/views/geek.html",
+		"/C/Sites/ToDoApp/public/views/nerd.html",
+		"/C/Sites/ToDoApp/public/views/home.html",
+		"/C/Sites/ToDoApp/public/js/appRoutes.js",
+		"/C/Sites/ToDoApp/public/js/controllers/MainCtrl.js",
+		"/C/Sites/ToDoApp/.bowerrc",
+		"/C/Sites/ToDoApp/bower.json",
+		"/C/Sites/ToDoApp/config/db.js",
+		"/C/Sites/ToDoApp/package.json",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Daniel/DemoApp/node_modules/mean-tokens/package.json",
+		"/C/Users/Daniel/DemoApp/node_modules/mean-tokens/node_modules/mean-health/index.js",
+		"/C/Users/Daniel/DemoApp/node_modules/mean-tokens/server/controllers/tokens.js",
+		"/C/Users/Daniel/DemoApp/Gruntfile.js",
+		"/C/Users/Daniel/DemoApp/packages/access/server/config/authorization.js",
+		"/C/Users/Daniel/DemoApp/packages/access/app.js",
+		"/C/Users/Daniel/DemoApp/bower_components/angular-bootstrap/ui-bootstrap.js",
+		"/C/Users/Daniel/DemoApp/node_modules/meanio/node_modules/npm/test/tap/update-save.js",
+		"/C/Users/Daniel/DemoApp/packages/users/public/users.js",
+		"/C/Users/Daniel/DemoApp/packages/users/public/views/reset-password.html",
+		"/C/Users/Daniel/DemoApp/node_modules/should/.idea/inspectionProfiles/profiles_settings.xml",
+		"/C/Users/Daniel/DemoApp/node_modules/karma/node_modules/log4js/test/streams/test-rolling-stream-with-existing-files",
+		"/C/Users/Daniel/DemoApp/node_modules/karma/node_modules/useragent/test/fixtures/static.custom.yaml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class",
+			"getDate",
+			"temp",
+			"bookingType",
+			"user.bookingType",
+			".ejs",
+			"res.send",
+			"res.redirect",
+			"ejs",
+			"res.send"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"current",
+			"",
+			"html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"project": "Rokkit200.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Sites\\Campio\\Campio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
