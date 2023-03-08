@@ -51,3 +51,7 @@ a {
 .text-secondary {
   color: $secondary !important;
 }
+
+.object-fit-cover {
+  object-fit: cover;
+}

@@ -362,3 +362,7 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ffc400 !important;
 }
+
+.object-fit-cover {
+  object-fit: cover;
+}
